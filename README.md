@@ -46,9 +46,9 @@ As Kayne West said :
 - [X] @mention
 
 
-- [X] this is an incomplete item
+- [ ] this is an incomplete item
 
-
+ 
 ```javascript
 document.getElementById("demo").innerHTML = (5 + 6) * 10;
 ```
