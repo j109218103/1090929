@@ -66,3 +66,32 @@ sum = num1 + num2
 # Display the sum
 print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
 ```
+
+## `Markdown'
+```markdown
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+
+1. Item 1
+2. Item 2
+3. Item 3
+   * Item 3a 
+   * Item 3b
+
+![NKUST LOGO](LOGO.png)
+```
+
+First | Second | Third|
+|:----|:-----:|-----:|
+|Nunber Cell1|Nunber Cell2|Nunber Cell3|
+|Nunber Cell1|Nunber Cell2|Nunber Cell3|
+|Nunber Cell1|Nunber Cell2|Nunber Cell3|
+|Nunber Cell1|Nunber Cell2|Nunber Cell3|
+|Nunber Cell1|Nunber Cell2|Nunber Cell3|
+
+:+1:
+:sunny:
+:smile:
+:sparkles:
