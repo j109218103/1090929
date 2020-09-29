@@ -27,3 +27,26 @@ __粗體__
    * Item 3b
 
 ![NKUST LOGO](LOGO.png)
+
+(https://elearning.nkust.edu.tw/mooc/index.php)
+
+[NKUST] (https://elearning.nkust.edu.tw/mooc/index.php)
+
+As Kayne West said :
+
+> We're living the future so
+> the present is our past.
+
+\*literal asterisks\*
+
+\(literal asterisks\)
+
+\{literal asterisks\}
+
+-[X] @mention
+
+-[ ] this is an incomplete item
+
+```javascript
+document.getElementById("demo").innerHTML = (5 + 6) * 10;
+```
