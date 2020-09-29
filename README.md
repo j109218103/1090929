@@ -46,7 +46,7 @@ As Kayne West said :
 -[X] @mention
 
 
--[ ] this is an incomplete item
+-[X] this is an incomplete item
 
 
 ```javascript
