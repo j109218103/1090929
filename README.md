@@ -86,10 +86,10 @@ print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
 |First | Second | Third|
 |:--------|:---------:|---------:|
 |Nunber Cell1    |Nunber Cell2     |Nunber Cell3     |
-|Nunber Cell1    |Nunber Cell2     |Nunber Cell3     |
-|Nunber Cell1    |Nunber Cell2     |Nunber Cell3     |
-|Nunber Cell1    |Nunber Cell2     |Nunber Cell3     |
-|Nunber Cell1    |Nunber Cell2     |Nunber Cell3     |
+| Cell1    | Cell2     | Cell3     |
+| Cell1    | Cell2     | Cell3     |
+| Cell1    | Cell2     | Cell3     |
+| Cell1    | Cell2     | Cell3     |
 
 :+1:
 
