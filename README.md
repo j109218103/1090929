@@ -43,10 +43,10 @@ As Kayne West said :
 
 \{literal asterisks\}
 
--[X] @mention
+- [X] @mention
 
 
--[X] this is an incomplete item
+- [X] this is an incomplete item
 
 
 ```javascript
