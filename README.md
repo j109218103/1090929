@@ -30,7 +30,10 @@ __粗體__
 
 ![NKUST LOGO](LOGO.png "^__^Y")
 
+<img src="https://github.com/j109218103/1090929/blob/master/LOGO.png" alt ="resize logo" width="250"/>
+
 <https://elearning.nkust.edu.tw/mooc/index.php>
+
 
 
 [NKUST](https://elearning.nkust.edu.tw/mooc/index.php)
