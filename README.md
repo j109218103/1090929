@@ -28,7 +28,7 @@ __粗體__
 
 ![NKUST LOGO](LOGO.png)
 
-(https://elearning.nkust.edu.tw/mooc/index.php)
+<https://elearning.nkust.edu.tw/mooc/index.php>
 
 [NKUST] (https://elearning.nkust.edu.tw/mooc/index.php)
 
