@@ -32,6 +32,9 @@ __粗體__
 
 <img src="https://github.com/j109218103/1090929/blob/master/LOGO.png" alt ="resize logo" width="250"/>
 
+![ABC](https://i.imgur.com/NXcIq9O.png)
+<img src = "https://i.imgur.com/NXcIq9O.png" alter="resize again" width="250"/>
+
 <https://elearning.nkust.edu.tw/mooc/index.php>
 
 
