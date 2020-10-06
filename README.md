@@ -50,6 +50,7 @@ As Kayne West said :
 
 - [ ] this is an incomplete item
  
+- [x] abc
  
 ```javascript
 var x;
