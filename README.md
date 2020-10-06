@@ -45,6 +45,8 @@ __粗體__
 :bulb: **提示**: 如您使用私有團隊方案，圖片會上傳到私有的 S3 空間，且只能透過筆記存取圖片。
 :::
 
+[我的練習](https://hackmd.io/@ExgcMNqYTQKxB-d6FunurA/SkzjaaYUP)
+
 
 As Kayne West said :
 
