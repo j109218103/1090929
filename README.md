@@ -35,6 +35,10 @@ __粗體__
 
 [NKUST](https://elearning.nkust.edu.tw/mooc/index.php)
 
+:::info
+:bulb: **提示**: 如您使用私有團隊方案，圖片會上傳到私有的 S3 空間，且只能透過筆記存取圖片。
+:::
+
 
 As Kayne West said :
 
@@ -103,3 +107,5 @@ print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
 :smile:
 
 :sparkles:
+
+![HACKMD EX]()
